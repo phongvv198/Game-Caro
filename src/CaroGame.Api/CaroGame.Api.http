@@ -1,0 +1,6 @@
+@CaroGame.Api_HostAddress = http://localhost:5223
+
+GET {{CaroGame.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
