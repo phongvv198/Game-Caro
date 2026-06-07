@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CaroGame.Api/CaroGame.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CaroGame.Tests/CaroGame.Tests.csproj" />
+  </Folder>
+</Solution>
